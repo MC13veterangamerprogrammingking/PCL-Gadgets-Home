@@ -152,26 +152,3 @@
                Type="Clickable" />
      </StackPanel>
 </local:MyCard>
-<local:MyCard Margin="0,0,0,8" Title="特殊功能【仅供作者测试】" CanSwap="True" IsSwaped="True">
-     <StackPanel Margin="24,40,24,15">
-          <local:MyListItem Margin="-2,0,0,0" Info="仅供测试"
-               Logo="pack://application:,,,/images/blocks/GoldBlock.png" Title="测试功能"
-               EventType="弹出窗口"
-               EventData="测试|测试功能，仅供作者测试！"
-               Type="Clickable" />
-               <local:MyListItem Margin="-2,0,0,0"
-               Logo="pack://application:,,,/images/blocks/Grass.png" Title="测试按钮"
-               Info="作者：MC13veterangamerprogrammingking" EventType="打开网页"
-               EventData="https://MC13veterangamerprogrammingking.github.io/redirect/index.html"
-               Type="Clickable" />
-          <local:MyListItem Margin="-2,0,0,0"
-               Logo="pack://application:,,,/images/blocks/GoldBlock.png" Title="今日人品"
-               Info="试试手气！" EventType="今日人品" Type="Clickable" />
-                    <local:MyButton Grid.Column="1" Margin="0,0,0,0" Height="35" Text="清理垃圾"
-                    EventType="清理垃圾" ToolTip="清理垃圾文件。" />
-                    <local:MyIconTextButton Margin="0,5,0,6" Height="35" HorizontalAlignment="Center"
-                    Text="刷新主页" EventType="刷新主页" Grid.Column="1"
-                    LogoScale="0.8" ColorType="Highlight"
-                    Logo="M256.455,8C322.724,8.119,382.892,34.233,427.314,76.685L463.029,40.97C478.149,25.851,504,36.559,504,57.941L504,192C504,205.255,493.255,216,480,216L345.941,216C324.559,216,313.851,190.149,328.97,175.029L370.72,133.279C339.856,104.38 299.919,88.372 257.49,88.006 165.092,87.208 87.207,161.983 88.0059999999999,257.448 88.764,348.009 162.184,424 256,424 297.127,424 335.997,409.322 366.629,382.444 371.372,378.283 378.535,378.536 382.997,382.997L422.659,422.659C427.531,427.531 427.29,435.474 422.177,440.092 378.202,479.813 319.926,504 256,504 119.034,504 8.001,392.967 8,256.002 7.999,119.193 119.646,7.755 256.455,8z" />
-     </StackPanel>
-</local:MyCard>
