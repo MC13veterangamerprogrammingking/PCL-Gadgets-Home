@@ -4,7 +4,6 @@
        \- https://github.com/mc13veterangamerprogrammingking/PCL-Gadgets-Home -\
         \- Version: 0.0.1 -\
 -->
-
 <!--欢迎页-->
 <local:MyCard Margin="0,-6,0,12" Title="欢迎"> 
      <StackPanel Margin="24,35,24,15">
