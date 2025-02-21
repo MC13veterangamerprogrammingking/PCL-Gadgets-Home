@@ -147,7 +147,7 @@
           <local:MyListItem Margin="-2,0,0,0" Info="MC13veterangamerprogrammingking"
                Logo="pack://application:,,,/images/blocks/GoldBlock.png" Title="关于作者"
                EventType="弹出窗口"
-               EventData="关于作者|我是MC13veterangamerprogrammingking，一个程序员，该主页目前由mfn233完成大部分\n\n如果你真的很希望更多地了解MC13veterangamerprogrammingking，欢迎访问我的网站: MC13veterangamerprogrammingking.github.io\n\n如果你真的很希望更多地了解mfn233，欢迎访问mfn233的网站: mfn233.github.io\n\n©MC13veterangamerprogrammingking 2025/1/26"
+               EventData="关于作者|我是MC13veterangamerprogrammingking，一个程序员，该主页目前由mfn233完成大部分\n\n如果你真的很希望更多地了解MC13veterangamerprogrammingking，欢迎访问我的网站: mc-blog.rth2.xyz\n\n\n©MC13veterangamerprogrammingking 2025/1/26"
                Type="Clickable" />
      </StackPanel>
 </local:MyCard>
