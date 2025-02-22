@@ -45,8 +45,8 @@
           <local:MyListItem Margin="-2,0,0,0"
                Logo="pack://application:,,,/images/blocks/CommandBlock.png" Title="网页捷径"
                Type="Clickable"
-               Info="打开网页捷径页面，暂时位于 GitHub" EventType="打开帮助"
-               EventData="https://MC13veterangamerprogrammingking.github.io/urlshortcut/main.json" />
+               Info="打开网页捷径页面" EventType="打开帮助"
+               EventData="https://mc13-blog.rth2.zxy/urlshortcut/main.json" />
      </StackPanel>
 </local:MyCard>
 
