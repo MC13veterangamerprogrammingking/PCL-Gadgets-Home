@@ -46,7 +46,7 @@
                Logo="pack://application:,,,/images/blocks/CommandBlock.png" Title="网页捷径"
                Type="Clickable"
                Info="打开网页捷径页面" EventType="打开帮助"
-               EventData="https://mc13-blog.rth2.xyz/urlshortcut/main.json" />
+               EventData="https://mc13veterangamerprogrammingking.github.io/urlshortcut/main.json" />
      </StackPanel>
 </local:MyCard>
 
